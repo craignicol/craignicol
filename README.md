@@ -3,8 +3,9 @@
 - ✨ LLMs: Experimenting with large language models and their applications in various domains.
 - 🌱 Learning about machine learning, natural language processing, and AI ethics.
 - 😄 Pronouns: he/him
+- 💬 Ask me about: Various AI things (not just LLMs), managing projects, architecting for the long term
 
-## Below is my recent articles Craig Nicol (he/him) collected from dev.to
+## Below are my recent articles Craig Nicol (he/him) collected from dev.to
 
 ### Table
 
@@ -92,6 +93,6 @@
         </tr>
 </table>
 
-*Updated at: 2026-05-06T20:26:22Z*
+*Updated at: 2026-05-06T20:31:41Z*
 
 
