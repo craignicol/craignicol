@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-17764637377992009336159771064108.jpg%3Fw%3D1200" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/customer-collaboration-over-contract-negotiation-ogn">customer collaboration over contract negotiation;</a>
+                <div>No great software was written without collaboration. And the best collaboration is always as close to...</div>
+                <div><i>08/05/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2017%2F03%2Fseptember-20-2016-at-0553pm.jpg%3Fw%3D1200" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/working-software-over-comprehensive-documentation-4b0f">working software over comprehensive documentation;</a>
@@ -83,16 +91,8 @@
                 <div><i>07/02/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.files.wordpress.com%2F2020%2F03%2Fwp-1583529281718.jpg%3Fw%3D2400" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/if-you-truly-want-people-to-be-creative-and-innovative-take-them-off-the-clock-53h1">If you truly want people to be creative and innovative,...</a>
-                <div>That doesn’t mean no deadlines, but no timesheets – don’t justify every 15 minutes with a project,...</div>
-                <div><i>03/02/2023</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-05-08T18:47:13Z*
+*Updated at: 2026-05-09T01:09:54Z*
 
 
