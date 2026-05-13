@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fwpid-wp-1437080976124.jpeg%3Fw%3D1200" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/dont-send-me-easter-emails-16io">Don’t send me Easter emails</a>
+                <div>Ever got the “please don’t send me Father’s Day emails”  I get the sentiment behind emails like this,...</div>
+                <div><i>12/05/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-17764637377992009336159771064108.jpg%3Fw%3D1200" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/customer-collaboration-over-contract-negotiation-ogn">customer collaboration over contract negotiation;</a>
@@ -83,16 +91,8 @@
                 <div><i>10/02/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.files.wordpress.com%2F2020%2F03%2Fwp-1583529281536.jpg%3Fw%3D1200" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/if-it-hurts-stop-doing-it-the-wrong-process-4cck">If it hurts, stop doing it: the wrong process</a>
-                <div>If something is painful, should you do more of it? Not if it’s painful because you have the wrong...</div>
-                <div><i>07/02/2023</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-05-13T01:15:03Z*
+*Updated at: 2026-05-13T07:23:22Z*
 
 
