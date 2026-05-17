@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-1776463739280974680461532381450.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/responding-to-change-over-following-a-plan-5a1g">responding to change over following a plan</a>
+                <div>Failure to plan is planning to fail.  Things change. I might not trust change, but I accept it and...</div>
+                <div><i>15/05/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fwpid-wp-1437080976124.jpeg%3Fw%3D1200" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/dont-send-me-easter-emails-16io">Don’t send me Easter emails</a>
@@ -83,16 +91,8 @@
                 <div><i>22/02/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.files.wordpress.com%2F2020%2F03%2Fwp-1583529281454.jpg%3Fw%3D1200" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/why-is-css-hard-2pob">Why is CSS hard?</a>
-                <div>CSS is a real language, and you need deep technical knowledge to understand it. But plenty of...</div>
-                <div><i>10/02/2023</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-05-17T07:16:45Z*
+*Updated at: 2026-05-17T12:38:18Z*
 
 
