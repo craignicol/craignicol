@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2020%2F03%2Fwp-1583529283129.jpg%3Fw%3D1200" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/if-it-hurts-stop-doing-it-the-wrong-person-in-the-wrong-place-30bo">If it hurts, stop doing it: the wrong person in...</a>
+                <div>Have you ever taken your goldfish for a walk and tried to play fetch?  They’re rubbish at it, you...</div>
+                <div><i>19/05/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-1776463739280974680461532381450.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/responding-to-change-over-following-a-plan-5a1g">responding to change over following a plan</a>
@@ -83,16 +91,8 @@
                 <div><i>07/04/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.files.wordpress.com%2F2017%2F05%2Fscreenshot_2016-05-15-00-54-141.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/the-conscious-machine-41p7">The conscious machine</a>
-                <div>This is a fantastic explainer of the threats and risks, and opportunities of AI. Thinking about the...</div>
-                <div><i>22/02/2023</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-05-19T18:57:24Z*
+*Updated at: 2026-05-20T01:20:18Z*
 
 
