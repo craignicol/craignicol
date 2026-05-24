@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-17764628249061504729062565706246.jpg%3Fw%3D1200" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/in-case-of-failure-10jd">In case of failure</a>
+                <div>A catastrophic failure is always a system failure.  It could be the intern, it could be Your Plastic...</div>
+                <div><i>22/05/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2020%2F03%2Fwp-1583529283129.jpg%3Fw%3D1200" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/if-it-hurts-stop-doing-it-the-wrong-person-in-the-wrong-place-30bo">If it hurts, stop doing it: the wrong person in...</a>
@@ -83,16 +91,8 @@
                 <div><i>11/04/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.files.wordpress.com%2F2021%2F04%2Fwp-1617831687283.jpg%3Fw%3D1200" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/name-your-problems-c23">Name your problems</a>
-                <div>A rose by any other name would smell as sweet.  Names matter. Names are a container for all we know...</div>
-                <div><i>07/04/2023</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-05-24T07:25:16Z*
+*Updated at: 2026-05-24T12:41:12Z*
 
 
