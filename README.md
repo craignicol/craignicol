@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-17764628263774363316655152905485.jpg%3Fw%3D1200" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/cloud-thinking-data-in-3rd-denormalised-form-5759">Cloud thinking : Data in 3rd denormalised form</a>
+                <div>One schema to rule them all and in the darkness bind them.  That’s the SQL way. One schema, many...</div>
+                <div><i>29/05/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-17764637394717290851662952213776.jpg%3Fw%3D1200" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/if-it-hurts-stop-doing-it-automating-the-wrong-things-524l">If it hurts, stop doing it: automating the wrong things</a>
@@ -83,16 +91,8 @@
                 <div><i>24/04/2026</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2020%2F02%2Fwp-1582925757078.jpg%3Fw%3D1200" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/large-language-models-and-the-chinese-room-239d">Large Language Models and the Chinese Room</a>
-                <div>It’s very easy to fool humans. We love to fill in gaps.  We see patterns and assume intelligence. We...</div>
-                <div><i>21/04/2026</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-05-31T12:48:11Z*
+*Updated at: 2026-05-31T18:42:20Z*
 
 
