@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fwp-1609625215982.jpg%3Fw%3D1200" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/exes-or-alumni-307m">Exes or alumni</a>
+                <div>I’ve seen a few posts on LinkedIn recently about both the mass layoffs done in the worst way and also...</div>
+                <div><i>02/06/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-17764628263774363316655152905485.jpg%3Fw%3D1200" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/cloud-thinking-data-in-3rd-denormalised-form-5759">Cloud thinking : Data in 3rd denormalised form</a>
@@ -83,16 +91,8 @@
                 <div><i>28/04/2026</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-17764637370518922582297447355866.jpg%3Fw%3D1200" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/individuals-and-interactions-over-processes-and-tools-pfa">individuals and interactions over processes and tools;</a>
-                <div>Good processes and tools support teams. Bad ones destroy them.  Individuals are good, but if you look...</div>
-                <div><i>24/04/2026</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-06-04T19:05:26Z*
+*Updated at: 2026-06-05T01:22:51Z*
 
 
