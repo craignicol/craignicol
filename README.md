@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2017%2F05%2Fdsc_0508.jpg%3Fw%3D1200" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/the-andy-dufresne-project-e37">The Andy Dufresne project</a>
+                <div>Have you ever been stuck on an Andy Dufresne project?  You know the one. You’re trapped because of...</div>
+                <div><i>12/06/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fwp-1609625215982.jpg%3Fw%3D1200" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/exes-or-alumni-307m">Exes or alumni</a>
@@ -83,16 +91,8 @@
                 <div><i>01/05/2026</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-17764637370518922582297447355866.jpg%3Fw%3D1200" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/if-its-hurts-stop-doing-it-you-dont-need-to-know-everything-29o3">If it’s hurts, stop doing it : you don’t need...</a>
-                <div>The best managers are great at delegation.  Micromanagement is exhausting. It’s stressful. And it...</div>
-                <div><i>28/04/2026</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-06-13T07:35:05Z*
+*Updated at: 2026-06-13T12:54:29Z*
 
 
