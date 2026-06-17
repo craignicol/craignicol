@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2020%2F03%2Fwp-1583529281954.jpg%3Fw%3D1200" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/mvp-is-a-game-of-jenga-5dpk">MVP is a game of Jenga</a>
+                <div>The M in MVP stands for Minimal. Lots of teams forget.  MVP is not Version 1.0; it’s not the kitchen...</div>
+                <div><i>16/06/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2017%2F05%2Fdsc_0508.jpg%3Fw%3D1200" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/the-andy-dufresne-project-e37">The Andy Dufresne project</a>
@@ -83,16 +91,8 @@
                 <div><i>08/05/2026</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2017%2F03%2Fseptember-20-2016-at-0553pm.jpg%3Fw%3D1200" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/working-software-over-comprehensive-documentation-4b0f">working software over comprehensive documentation;</a>
-                <div>Good code documents itself.  But there’s a lot of context outside the code that informs it. There’s...</div>
-                <div><i>01/05/2026</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-06-17T13:32:20Z*
+*Updated at: 2026-06-17T19:09:02Z*
 
 
