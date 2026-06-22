@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/if-it-hurts-stop-doing-it-the-wont-do-list-21di">If it hurts, stop doing it: the won’t do list</a>
+                <div>We have backlogs to tell us what to work on next. Things that don’t fit in the current sprint, or...</div>
+                <div><i>19/06/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2020%2F03%2Fwp-1583529281954.jpg%3Fw%3D1200" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/mvp-is-a-game-of-jenga-5dpk">MVP is a game of Jenga</a>
@@ -83,16 +91,8 @@
                 <div><i>12/05/2026</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-17764637377992009336159771064108.jpg%3Fw%3D1200" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/customer-collaboration-over-contract-negotiation-ogn">customer collaboration over contract negotiation;</a>
-                <div>No great software was written without collaboration. And the best collaboration is always as close to...</div>
-                <div><i>08/05/2026</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-06-21T18:49:40Z*
+*Updated at: 2026-06-22T01:31:03Z*
 
 
