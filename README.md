@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fwp-1609625214849.jpg%3Fw%3D1200" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/the-product-is-never-as-important-as-the-support-2bpi">The product is never as important as the support</a>
+                <div>You can’t vibe code your way to a great customer experience.   You need the user flows and the user...</div>
+                <div><i>13/10/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/if-it-hurts-stop-doing-it-the-wont-do-list-21di">If it hurts, stop doing it: the won’t do list</a>
@@ -83,16 +91,8 @@
                 <div><i>15/05/2026</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fwpid-wp-1437080976124.jpeg%3Fw%3D1200" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/dont-send-me-easter-emails-16io">Don’t send me Easter emails</a>
-                <div>Ever got the “please don’t send me Father’s Day emails”  I get the sentiment behind emails like this,...</div>
-                <div><i>12/05/2026</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-10-14T11:55:41Z*
+*Updated at: 2026-10-14T17:12:55Z*
 
 
