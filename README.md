@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-1776462828169696668730660196796.jpg%3Fw%3D1200" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/job-hunter-mental-health-3le0">Job hunter mental health</a>
+                <div>Enough time has passed since my last job hunt that I can publish my thoughts to maybe help others,...</div>
+                <div><i>16/10/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fwp-1609625214849.jpg%3Fw%3D1200" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/the-product-is-never-as-important-as-the-support-2bpi">The product is never as important as the support</a>
@@ -83,16 +91,8 @@
                 <div><i>19/05/2026</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-1776463739280974680461532381450.jpg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/responding-to-change-over-following-a-plan-5a1g">responding to change over following a plan</a>
-                <div>Failure to plan is planning to fail.  Things change. I might not trust change, but I accept it and...</div>
-                <div><i>15/05/2026</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-10-16T16:41:21Z*
+*Updated at: 2026-10-16T21:11:21Z*
 
 
