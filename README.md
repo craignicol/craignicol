@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fwp-1609625210853.jpg%3Fw%3D1200" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/slow-productivity-3dil">Slow productivity</a>
+                <div>Productivity isn’t getting things done. It’s getting the right things done.   The push from so many...</div>
+                <div><i>20/10/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-1776462828169696668730660196796.jpg%3Fw%3D1200" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/job-hunter-mental-health-3le0">Job hunter mental health</a>
@@ -83,16 +91,8 @@
                 <div><i>22/05/2026</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2020%2F03%2Fwp-1583529283129.jpg%3Fw%3D1200" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/if-it-hurts-stop-doing-it-the-wrong-person-in-the-wrong-place-30bo">If it hurts, stop doing it: the wrong person in...</a>
-                <div>Have you ever taken your goldfish for a walk and tried to play fetch?  They’re rubbish at it, you...</div>
-                <div><i>19/05/2026</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-10-21T11:52:05Z*
+*Updated at: 2026-10-21T17:14:24Z*
 
 
