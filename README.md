@@ -12,6 +12,14 @@
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fjune-10-2017-at-0815pm-1.jpeg%3Fw%3D1200" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/craignicol/multiple-points-of-failure-lawnmower-4bpp">multiple points of failure – lawnmower</a>
+                <div>There are a lot of ways things can go wrong. So you need a lot of levels of safety.  If your...</div>
+                <div><i>23/10/2026</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fwp-1609625210853.jpg%3Fw%3D1200" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/craignicol/slow-productivity-3dil">Slow productivity</a>
@@ -83,16 +91,8 @@
                 <div><i>26/05/2026</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcraignicol.wordpress.com%2Fwp-content%2Fuploads%2F2026%2F04%2Fwp-17764628249061504729062565706246.jpg%3Fw%3D1200" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/craignicol/in-case-of-failure-10jd">In case of failure</a>
-                <div>A catastrophic failure is always a system failure.  It could be the intern, it could be Your Plastic...</div>
-                <div><i>22/05/2026</i></div>
-            </td>
-        </tr>
 </table>
 
-*Updated at: 2026-10-23T17:10:16Z*
+*Updated at: 2026-10-23T21:26:03Z*
 
 
